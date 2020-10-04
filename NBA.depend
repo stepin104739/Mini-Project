@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1601845813 source:c:\users\nipun tank\desktop\c++ project\nba\nba_db.cpp
+	"NBA_db.h"
+	"result.h"
+	<fstream>
+	<list>
+	<iterator>
+
+1601798519 source:c:\users\nipun tank\desktop\c++ project\nba\nba.cpp
+	"NBA.h"
+	"NBA_db.h"
+	"result.h"
+	<fstream>
+
+1601789563 c:\users\nipun tank\desktop\c++ project\nba\nba.h
+	<string>
+
+1601789642 source:c:\users\nipun tank\desktop\c++ project\nba\result.cpp
+	"result.h"
+	<iostream>
+
+1601638418 c:\users\nipun tank\desktop\c++ project\nba\result.h
+	"NBA.h"
+	<string>
+	<iostream>
+
+1601845852 c:\users\nipun tank\desktop\c++ project\nba\nba_db.h
+	"NBA.h"
+	"result.h"
+	<iostream>
+	<list>
+	<iterator>
+	<fstream>
+
+1601847610 source:c:\users\nipun tank\desktop\c++ project\nba\nba_db_test.cpp
+	<iostream>
+	<fstream>
+	"NBA.h"
+	"result.h"
+	"NBA_db.h"
+	<gtest/gtest.h>
+
+1601839540 source:c:\users\nipun tank\desktop\c++ project\nba\result_test.cpp
+	<iostream>
+	"NBA.h"
+	"result.h"
+	"NBA_db.h"
+	<gtest/gtest.h>
+
